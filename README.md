@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Codelxyz
 - 👀 I’m interested in Web3 Nodes
-- 🌱 I’m currently learning 
+- 🌱 I’m currently learning Python
